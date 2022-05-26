@@ -1,9 +1,16 @@
-# ¡Hola! Soy Javier Barón 👋
+# ¡Hola! Soy Javier Barón 👋 ![image](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+
 
 <!--
-**jabaron56/jabaron56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jabaron56/jabaron56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
+
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
