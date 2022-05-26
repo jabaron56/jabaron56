@@ -1,4 +1,4 @@
-# ¡Hola! SOy Javier Barón 👋
+# ¡Hola! Soy Javier Barón 👋
 
 <!--
 **jabaron56/jabaron56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
