@@ -2,7 +2,7 @@
 
 Soy un desarrollador junior que está comenzando su carrera como programador.
 
-Siempre me ha gustado todo lo relacionado con la tecnología por lo que decidí enfocar mis estudios a algo relacionado con la informática, al principio empecé con sistemas microinformáticos y redes, pero luego me dí cuenta de que lo que realmente me gustaba era desarrollar aplicaciones.
+Siempre me ha gustado todo lo relacionado con la tecnología por lo que decidí enfocar mis estudios a algo relacionado con la informática, al principio empecé con sistemas microinformáticos y redes, pero luego me di cuenta de que lo que realmente me gustaba era desarrollar aplicaciones.
 
 He dedicado estos últimos años a formarme como desarrollador multiplataforma y ahora estoy comenzando mi carrera profesional con muchas ganas de seguir aprendiendo día a día, centrándome en el desarrollo de aplicaciones móviles.
 
