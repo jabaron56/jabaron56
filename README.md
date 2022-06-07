@@ -40,6 +40,7 @@ He dedicado estos últimos años a formarme como desarrollador multiplataforma y
 
 ## Algunos de mis proyectos:
  
+ # (En construcción)
 <!--
 
 ## Vídeo explicación retos
