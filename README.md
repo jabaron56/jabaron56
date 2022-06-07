@@ -39,12 +39,16 @@ He dedicado estos últimos años a formarme como desarrollador multiplataforma y
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Algunos de mis proyectos:
-
+ 
 <!--
 
 ## Vídeo explicación retos
 
 <a href="https://youtu.be/TSMFijaJwpE"><img src="" style="height: 10%; width:10%;"/></a>
+
+ [![Alt text](https://img.youtube.com/vi/6_11FosleYU/0.jpg)](https://www.youtube.com/watch?v=6_11FosleYU)
+ 
+ <a href="https://www.youtube.com/watch?v=6_11FosleYU"><img src="https://img.youtube.com/vi/6_11FosleYU/0.jpg" style="height: 50%; width:50%;"/></a>
 
 ![]()
 
