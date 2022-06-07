@@ -40,15 +40,11 @@ He dedicado estos últimos años a formarme como desarrollador multiplataforma y
 
 ## Algunos de mis proyectos:
 
-| <a href="https://github.com/jabaron56/TFG_Krados"><img src="https://github.com/jabaron56/TFG_Krados" style="height: 50%; width:50%;"/></a>  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
-
-
 <!--
 
 ## Vídeo explicación retos
 
-<a href="https://youtu.be/TSMFijaJwpE"><img src="" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/TSMFijaJwpE"><img src="" style="height: 10%; width:10%;"/></a>
 
 ![]()
 
