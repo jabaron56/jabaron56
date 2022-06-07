@@ -1,6 +1,10 @@
 # ¡Hola! Soy Javier Barón 👋 ![image](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
-# (_En construcción_)
+Soy un desarrollador junior que está comenzando su carrera como programador.
+
+Siempre me ha gustado todo lo relaccionado con la tecnología por lo que decidí enfocar mis estudios a algo relacionado con la informática, al princípio empecé con sistemas microinformáticos y redes, pero luego me dí cuenta de que lo que realmente me gustaba era desarrollar aplicaciones.
+
+He dedicado estos últimos años a formarme como desarrollador multiplataforma y ahora estoy comenzando mi carrera profesional con muchas ganas de seguir aprendiendo día a día, centrandome en el desarrollo de aplicaciones móviles.
 
 ## Encuentrame en:
 
@@ -30,7 +34,10 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## Aficiones:
+
+## Algunos de mis proyectos:
+
+# (En construccion)
 
 
 <!--
