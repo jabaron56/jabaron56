@@ -38,10 +38,12 @@ He dedicado estos últimos años a formarme como desarrollador multiplataforma y
 ![](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+
+<!--
+
 ## Algunos de mis proyectos:
  
  # (En construcción)
-<!--
 
 ## Vídeo explicación retos
 
